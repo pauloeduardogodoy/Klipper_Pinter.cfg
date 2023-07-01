@@ -1,3 +1,3 @@
-# Klipper_Pinter.cfg
+# Klipper config files
 
-This is my printer.cfg file for sharing.
+These are my Klipper configuration files for backup and sharing.
